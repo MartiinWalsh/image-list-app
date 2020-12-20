@@ -1,0 +1,6 @@
+package com.photo_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
