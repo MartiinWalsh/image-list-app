@@ -1,8 +1,6 @@
-# image-list-app
-
 ## The Application
 
-Each time the user presses the floating action button an image is added and displayed via a list.
+Each time the user presses the floating action button an image is fetched from the internet and displayed within a list.
 
 ## The following was learned through developing this application
 
